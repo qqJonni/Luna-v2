@@ -1,0 +1,2 @@
+AI_TOKEN = "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"
+TG_TOKEN = "7969052720:AAHaTq7aV2dzn1oYy7q7b-n0a_trqMyi_NI"
